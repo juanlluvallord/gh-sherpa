@@ -1,0 +1,25 @@
+cmd/create_pull_request/cmd.go
+  s_97db01a2fd9752::t_c2e6f8c80c4ecc 36,64,152
+docs/USAGE.md
+  s_97db01a2fd9752::t_6685cc5500b130 134,176
+internal/git/git.go
+  s_97db01a2fd9752::t_ddaf886641234c 19,181,202
+internal/git/git_test.go
+  s_97db01a2fd9752::t_bd988f4becb71e 211-212,258-259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "47f98fc88c449e8f7ef0bc22c2dacdb52490f382",
+  "prompts": {},
+  "sessions": {
+    "s_97db01a2fd9752": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "759bc90e-1831-49a4-93be-d706ad576b43",
+        "model": "unknown"
+      },
+      "human_author": "Juan Lluva Llord <juanll@inditex.com>"
+    }
+  }
+}
